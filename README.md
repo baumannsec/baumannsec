@@ -2,13 +2,13 @@
 
 <h2> Cybresecurity Projects:</h2>
 
-  - [Security Onion VM Home Lab](https://github.com/baumannsec/laburl)
+  - [Security Onion VM Home Lab - to be added](https://github.com/baumannsec/laburl)
   - [30 Day SOC Analyst Challenge x MyDFIR](https://github.com/baumannsec/30Day_SOC-Analyst_Challenge)
 
 <h2> Blogs:</h2>
 
 - <b>Cyber Threat Intel</b>
-  - [M-trend Analysis](https://github.com/baumannsec/bloglaburl)
+  - [M-trend Analysis - to be added](https://github.com/baumannsec/bloglaburl)
 
 <h2> Education and Certifications:</h2>
 
@@ -24,13 +24,9 @@
   - [GPYC (FEB 2026)]
   - [GCIA (MAY 2026)]
   - [GCFE (AUG 2026)]
-  - [GIAC (NOV 2026)]
+  - [GCFA (NOV 2026)]
   - [GMLE (FEB 2027)]
 
 <h2> Popular YouTube Videos</h2>
 
-- [Subnetting Made Easy](https://www.youtube.com/)
-
-<h2> Connect with me:</h2>
-
-[linkedin]: https://linkedin.com/in/baumanntrevor
+- [Subnetting Made Easy - to be added](https://www.youtube.com/)
