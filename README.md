@@ -7,8 +7,8 @@
 
 <h2> Blogs:</h2>
 
-- <b>Cyber Threat Intel</b>
-  - [M-trend Analysis - to be added](https://github.com/baumannsec/bloglaburl)
+- <b>SIEM</b>
+  - [Elasticsearch, Logstash, Kibana](https://baumannsec.github.io/)
 
 <h2> Education and Certifications:</h2>
 
