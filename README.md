@@ -9,6 +9,7 @@
 
 - <b>SIEM</b>
   - [Elasticsearch, Logstash, Kibana](https://baumannsec.github.io/)
+  - [Elasticsearch Instance Spin Up](https://baumannsec.github.io/)
 
 <h2> Education and Certifications:</h2>
 
