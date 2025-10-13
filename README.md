@@ -2,7 +2,7 @@
 
 <h2> Cybresecurity Projects:</h2>
 
-  - [Security Onion VM Home Lab - to be added](https://github.com/baumannsec/laburl)
+  - [Security Onion VM Home Lab](https://baumannsec.github.io/soc/2025/10/11/Security-Onion.html)
   - [30 Day SOC Analyst Challenge x MyDFIR](https://github.com/baumannsec/30Day_SOC-Analyst_Challenge)
 
 <h2> Blogs:</h2>
@@ -11,6 +11,9 @@
   - [Elasticsearch, Logstash, Kibana](https://baumannsec.github.io/)
   - [Elasticsearch Instance Spin Up](https://baumannsec.github.io/)
 
+- <b>SOC</b>
+  - [Security Onion Home Lab Part 1](https://baumannsec.github.io/soc/2025/10/11/Security-Onion.html)
+ 
 <h2> Education and Certifications:</h2>
 
 - <b>SANS Technology Institute</b>
