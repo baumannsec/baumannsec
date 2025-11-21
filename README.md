@@ -20,7 +20,7 @@
 <h2> Education and Certifications:</h2>
 
 - <b>SANS Technology Institute</b>
-  - [Bachelor's in Applied Cybersecurity (FEB 2027)]
+  - [Bachelor's in Applied Cybersecurity (Expected FEB 2027)]
   - [Applied Cybersecurity Certificate (NOV 2025)]
 
 - <b>GIAC</b>
