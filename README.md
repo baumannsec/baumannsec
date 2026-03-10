@@ -17,6 +17,11 @@
 - <b>Threat Hunting</b>
   - [Egress Traffic Analysis with RITA](https://baumannsec.github.io/threat/hunting/2025/11/19/Egress-Traffic-Analysis.html)
  
+<h2>Portfolio Practicum</h2>
+
+- <b>National Cyber League (NCL)</b>
+  - CTF-based cybersecurity training 
+ 
 <h2> Education and Certifications:</h2>
 
 - <b>SANS Technology Institute</b>
@@ -28,8 +33,8 @@
   - [GSEC](https://www.credly.com/badges/88b8a3b0-24b2-4bcb-ab44-036fcfa4e9d7/public_url)
   - [GCIH](https://www.credly.com/badges/82c54153-f762-40d1-a260-f67589589629/public_url)
   - [GMON](https://www.credly.com/badges/bcb05dc8-1c2c-40d6-b41d-3b8dd5c7f1da/public_url)
-  - [GPYC (FEB 2026)]
-  - [GCIA (MAY 2026)]
-  - [GCFE (AUG 2026)]
-  - [GCFA (NOV 2026)]
+  - [GPYC (MAY 2026)]
+  - [GCIA (JUL 2026)]
+  - [GCFE (SEP 2026)]
+  - [GRID (NOV 2026)]
   - [GMLE (FEB 2027)]
