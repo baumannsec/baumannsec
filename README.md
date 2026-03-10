@@ -17,7 +17,7 @@
 - <b>Threat Hunting</b>
   - [Egress Traffic Analysis with RITA](https://baumannsec.github.io/threat/hunting/2025/11/19/Egress-Traffic-Analysis.html)
  
-<h2>Portfolio Practicum</h2>
+<h2>Portfolio Practicum:</h2>
 
 - <b>National Cyber League (NCL)</b>
   - CTF-based cybersecurity training 
