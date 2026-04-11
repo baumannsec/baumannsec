@@ -25,7 +25,7 @@
 <h2> Education and Certifications:</h2>
 
 - <b>SANS Technology Institute</b>
-  - [Bachelor's in Applied Cybersecurity (Expected FEB 2027)]
+  - [Bachelor's in Applied Cybersecurity (Expected MAR 2027)]
   - [Applied Cybersecurity Certificate (NOV 2025)]
 
 - <b>GIAC</b>
@@ -33,8 +33,8 @@
   - [GSEC](https://www.credly.com/badges/88b8a3b0-24b2-4bcb-ab44-036fcfa4e9d7/public_url)
   - [GCIH](https://www.credly.com/badges/82c54153-f762-40d1-a260-f67589589629/public_url)
   - [GMON](https://www.credly.com/badges/bcb05dc8-1c2c-40d6-b41d-3b8dd5c7f1da/public_url)
-  - [GPYC (MAY 2026)]
-  - [GCIA (JUL 2026)]
-  - [GCFE (SEP 2026)]
-  - [GRID (NOV 2026)]
-  - [GMLE (FEB 2027)]
+  - [GPYC (JUN 2026)]
+  - [GPCS (AUG 2026)]
+  - [GCSA (NOV 2026)]
+  - [GCIA (JAN 2026)]
+  - [GFCE (MAR 2027)]
