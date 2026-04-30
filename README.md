@@ -3,7 +3,6 @@
 <h2> Cybresecurity Projects:</h2>
 
   - [Security Onion VM Home Lab](https://baumannsec.github.io/soc/2025/10/11/Security-Onion.html)
-  - [30 Day SOC Analyst Challenge x MyDFIR](https://github.com/baumannsec/30Day_SOC-Analyst_Challenge)
 
 <h2> Blogs:</h2>
 
