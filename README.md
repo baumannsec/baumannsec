@@ -19,7 +19,8 @@
 <h2>Portfolio Practicum:</h2>
 
 - <b>National Cyber League (NCL)</b>
-  - CTF-based cybersecurity training 
+  - CTF-based cybersecurity training
+  - [ncl-spring-2026 writeup](https://github.com/baumannsec/ctf-portfolio/blob/main/ncl-spring-2026)
  
 <h2> Education and Certifications:</h2>
 
