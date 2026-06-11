@@ -1,4 +1,4 @@
-<h1>Hello, I'm Trevor! <br/><a href="https://github.com/baumannsec">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/baumanntrevor/">IT Technician</a></h1>
+<h1>Hello, I'm Trevor! <br/><a href="https://github.com/baumannsec">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/baumanntrevor/">Enterprise Technician</a></h1>
 
 <h2> Cybresecurity Projects:</h2>
 
@@ -33,8 +33,8 @@
   - [GSEC](https://www.credly.com/badges/88b8a3b0-24b2-4bcb-ab44-036fcfa4e9d7/public_url)
   - [GCIH](https://www.credly.com/badges/82c54153-f762-40d1-a260-f67589589629/public_url)
   - [GMON](https://www.credly.com/badges/bcb05dc8-1c2c-40d6-b41d-3b8dd5c7f1da/public_url)
-  - [GPYC (JUN 2026)]
-  - [GPCS (AUG 2026)]
-  - [GCSA (NOV 2026)]
-  - [GCIA (JAN 2026)]
-  - [GFCE (MAR 2027)]
+  - [GPYC](https://www.credly.com/badges/6fddc1f2-a499-49ba-8028-882083097277/public_url)
+  - [GCIA (AUG 2026)]
+  - [GFCE (NOV 2026)]
+  - [GLIR (JAN 2026)]
+  - [GCSA (MAR 2027)]
