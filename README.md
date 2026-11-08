@@ -34,7 +34,7 @@ Completing guided projects with feedback from senior engineers, building a publi
   - [GMON](https://www.credly.com/badges/bcb05dc8-1c2c-40d6-b41d-3b8dd5c7f1da/public_url)
   - [GPYC](https://www.credly.com/badges/6fddc1f2-a499-49ba-8028-882083097277/public_url)
   - [GCIA](https://www.credly.com/badges/8457dac8-059f-480c-9e61-7cd6609c0172/public_url)
-  - Expected: GWAPT
+  - In Progress: GWAPT
 
 <h2> Projects:</h2>
 
